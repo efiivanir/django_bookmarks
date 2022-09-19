@@ -9,3 +9,4 @@ werkzeug
 vobject
 pyparsing
 pydot
+Pillow
