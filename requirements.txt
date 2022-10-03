@@ -10,3 +10,5 @@ vobject
 pyparsing
 pydot
 Pillow
+social-auth-app-django
+pyOpenSSL
